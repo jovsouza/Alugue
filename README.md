@@ -5,56 +5,20 @@
 </span>
 
 
-<div>
-<img src="https://user-images.githubusercontent.com/94797730/143960127-8e38aff3-372f-4523-8963-da5ab826b100.jpeg" width="400px" />
-</div>
+
+<img src="https://user-images.githubusercontent.com/94797730/143960127-8e38aff3-372f-4523-8963-da5ab826b100.jpeg" width="300px" />   <img src="https://user-images.githubusercontent.com/94797730/143960127-8e38aff3-372f-4523-8963-da5ab826b100.jpeg" width="300px" />
 
 
-<p align="center">
-  Heey! So good to see you here. <br>I'm Kaká, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> also, and I'm doing my master in <strong>Computer Engineer</strong>.<br />
-<strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>.
-
-</p>
-
-<p align="center">
-  I'm an <strong>Icamiaba</strong> in tech!<br />
-</p>
-
-<p align="center">
-  💼 Skills: <strong>Overcome obstacles with a big smile.</strong>
-</p>
-
-<p align="center">
-  👩‍💻  Stack: <strong>Backend Java, Frontend JavaScript, HTML, CSS and React.</strong>
-</p>
-
-<p align="center">
-  🚀  Learning: <strong>Java, C++, JavaScript, PHP, Typescript, React, Webflux, Go, SASS, UI, UX.</strong>
-</p>
-
-<p align="center">
-  💌 Text me: ⤵️
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/error418.code/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"/></a>
-  
-  <a href="https://www.linkedin.com/in/kakacordovil/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
-</p>  
 
 ## 💻 Technologies & Tools
 
 <p align="center">
   
- <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="25"/>
+ 
  <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+ <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+ <img src="https://user-images.githubusercontent.com/94797730/143961859-7b6cb3fd-cb7f-4f22-b2fd-7411d93928a6.png" height="25"/>
+ <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 
 
 </p>
